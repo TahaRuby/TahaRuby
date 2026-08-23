@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Taha 👋
 
-<!--
-**TahaRuby/TahaRuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Self-taught journey into **AI Security & Red Teaming** — from Python basics to LLM security tooling.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Linux fundamentals (OverTheWire Bandit)
+- 🎯 Long-term goal: hands-on AI Security / Red Teaming work
+- 📚 Following a structured roadmap — Python & Git → Web Security basics → ML basics → AI Security tools (garak, PyRIT, Promptfoo, LLM Guard) → personal project & portfolio
+- 📂 Tracking everything in [ai-security-journey](https://github.com/TahaRuby/ai-security-journey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working with
+
+`Python` · `Git` · `Linux` (learning) · `AI Security tools` (learning)
+
+## Journey log
+
+Weekly notes and progress live in [`ai-security-journey/notes`](https://github.com/TahaRuby/ai-security-journey/tree/main/notes) — check the roadmap for the full plan.
+
+---
+📫 Feel free to follow along or reach out.
