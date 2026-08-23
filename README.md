@@ -1,4 +1,4 @@
-# Hi, I'm Taha 👋
+# Hi, I'm Ruby 👋
 
 🔐 Self-taught journey into **AI Security & Red Teaming** — from Python basics to LLM security tooling.
 
