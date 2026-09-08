@@ -19,4 +19,15 @@
 Weekly notes and progress live in [`ai-security-journey/notes`](https://github.com/TahaRuby/ai-security-journey/tree/main/notes) — check the roadmap for the full plan.
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HafizMHussain/HafizMHussain/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
 📫 Feel free to follow along or reach out.
