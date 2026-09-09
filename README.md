@@ -20,14 +20,4 @@ Weekly notes and progress live in [`ai-security-journey/notes`](https://github.c
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HafizMHussain/HafizMHussain/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
 📫 Feel free to follow along or reach out.
