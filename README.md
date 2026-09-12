@@ -18,7 +18,7 @@
 
 Weekly notes and progress live in [`ai-security-journey/notes`](https://github.com/TahaRuby/ai-security-journey/tree/main/notes) — check the roadmap for the full plan.
 ---
-<h2>🐍 My GitHub Contributions</h2>
+<h2>🐍 Snake Committer</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaRuby/TahaRuby/output/github-snake-dark.svg">
